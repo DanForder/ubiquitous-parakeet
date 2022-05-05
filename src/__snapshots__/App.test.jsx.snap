@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render the app 1`] = `
+<div>
+  <div
+    class="layout"
+  >
+    <h1>
+      Deployed With Firebase
+    </h1>
+  </div>
+</div>
+`;
